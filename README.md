@@ -1,9 +1,6 @@
-### MADE BY LEGENDBOY
+## This Is Telegram Music UserBot To Play Music Without Being Admin
 
-### 🗣 Speaks different languages
-
-Music Player is multilingual and speaks [various languages](#languages),
-thanks to the translators.
+## A FASTEST AND SMOOTHEST BASED ON TG CALLS AND PYROGRAM STRING.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
