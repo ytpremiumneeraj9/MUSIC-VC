@@ -6,6 +6,8 @@
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-OS/Music-VC)
 
+
+## [REPL](https://t.me/LEGEND_STRINGSESSIONBOT)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
