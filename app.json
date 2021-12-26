@@ -1,8 +1,8 @@
 {
-    "name": "Music Player",
+    "name": "Legend Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "repository": "https://github.com/AsmSafone/MusicPlayer",
-    "logo": "https://github.com/AsmSafone/MusicPlayer/raw/main/theme/logo.png",
+    "repository": "https://github.com/LEGEND-OS/MUSIC-VC",
+    "logo": "https://github.com/LEGEND-OS/MUSIC-VC/raw/main/theme/logo.png",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -24,7 +24,7 @@
         "description": "Telegram app hash, get it from https://my.telegram.org/apps",
         "required": true
       },
-      "SESSION": {
+      "PYROGRAM_SESSION": {
         "description": "Pyrogram session string, get it from https://replit.com/@AsmSafone/genStr",
         "required": true
       },
@@ -34,7 +34,7 @@
       },
       "PREFIX": {
         "description": "Bot commad prefix or handler (separate multiple prefix with space)",
-        "value": "!",
+        "value": "/",
         "required": false
       },
       "LANGUAGE": {
