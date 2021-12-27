@@ -34,8 +34,8 @@
       },
       "PREFIX": {
         "description": "Bot commad prefix or handler (separate multiple prefix with space)",
-        "value": "/",
-        "required": false
+        "value": "",
+        "required": true 
       },
       "LANGUAGE": {
         "description": "An available bot language (read the README.md for more info)",
