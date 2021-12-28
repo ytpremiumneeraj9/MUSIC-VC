@@ -33,7 +33,7 @@
         "required": false
       },
       "PREFIX": {
-        "description": "Bot commad prefix or handler (separate multiple prefix with space)",
+        "description": "Bot commad prefix or handler (separate multiple prefix with space). By DefaultU Can Set <!>",
         "value": "",
         "required": true 
       },
