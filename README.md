@@ -4,8 +4,20 @@
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-OS/Music-VC)
+## U CAN USE THIS BUTTON WITHOUT FORK IF ERROR " Like Salesforce Violate" Then READ DOWN ONE MESSAGE 
 
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDBOYOP/Music-VC)
+
+------------
+
+- If Error Like Salesforce Then Fork This Repo
+
+- Then Click On Down One Button 
+
+- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+
+
+-------------
 
 ## [REPL](https://t.me/LEGEND_STRINGSESSIONBOT)
 ## ☁️ <a name="self_host"></a>Self Host
